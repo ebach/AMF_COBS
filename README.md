@@ -1,5 +1,5 @@
 # AMF_COBS
-data and statistical code for Bach et al. "The dynamic life of arbuscular mycorrhizal fungal symbionts" submitted to Ecology
+data and statistical code for Bach, E.M.; Narvaez-Rivera, G.; Murray, K.; Bauer, J.T.; Hofmockel, K.S. in press/2018 "The dynamic life of arbuscular mycorrhizal fungal symbionts" Ecology
 
 Data collected in summer 2012 from the Comparison of Biofuel Systems (COBS) experiment near Slater, Iowa (41°55'14.42"N, 93°44'58.96"W).  COBS is a randomized complete block design with four replicates containing 27 m x 61 m plots (Fig. 1a).  The present study includes three of the experimental agroecosystem treatments:  no-till continuous maize (Zea mays, corn), planted tallgrass prairie, and fertilized planted tallgrass prairie.  Additional site details can be found in:
 
@@ -13,3 +13,5 @@ COBS_AMF_AllData.csv (original data file)
 COBS2012_AMFvesHyph_ANOVAall.SAS (statistical code)
 
 Any questions or concerns can be addressed to Elizabeth Bach, ebach.soil@gmail.com (permanent email)
+
+Code DOI:  https://doi.org/10.5281/zenodo.1044476
